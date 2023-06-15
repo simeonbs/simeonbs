@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-<h3 align="center">A student from Sofia, Bulgaria.</h3>
-
-- 🔭 I’m currently working on **becoming a C# Web Developer**
-
-- 🌱 I’m currently learning **ASP.NET Core**
-
-- 👯 I’m looking to collaborate on **creating web applications**
-
-- 📫 How to reach me **simeonstoimenov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
